@@ -1,4 +1,5 @@
 ## NEKOS
+<img src="../img/NEKOS.png" align="right" alt="Logo" title="Logo" width="300" height="300">
 NEKOS is a kit of APIs and tools to gather various chat services' bot APIs under one API. NEKOS aims to make it easy to create chat bots which can interoperate across various chat services.
 This project is currently a work in progress! Check the [Roadmap](https://github.com/NEKOS-Core/Roadmap) for features to be implemented.
 
